@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\DiagnosaController;
 
 /*
 |--------------------------------------------------------------------------
@@ -12,7 +13,6 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-
-Route::get('/', function () {
-    return view('welcome');
-});
+// Public Route
+Route::get('/', [DiagnosaController::class, 'index'])->name('diagnosis.index');
+Route::post('/diagnosa', [DiagnosaController::class, 'diagnosa'])->name('diagnosis.diagnose');
