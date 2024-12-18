@@ -1,4 +1,4 @@
-Sistem ini bertujuan untuk Diagnostik Kesulitan Belajar dengan metode forward chaining.
+Ini adalah Sistem Diagnostik Kesulitan Belajar dengan metode Forward Chaining.
 
 Sistem akan menampilkan gejala gejala, lalu responden akan memilih gejala sesuai yang dialami, setelah itu responden harus menekan tombol "Diagnosa" untuk menampilkan hasilnya.
 
