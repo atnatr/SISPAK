@@ -16,3 +16,5 @@ Sistem ini dibuat oleh :
 - Berli Anta Atrizki (2217051076)
 - Irfan Marcellino (2257051024)
 - Philip Ebenhaezer Karundeng (2217051033)
+- Muhammad Fakhri Wilova (2217051104)
+  
